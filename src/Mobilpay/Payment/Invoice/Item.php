@@ -1,5 +1,5 @@
 <?php
-namespace Stl30\LaravelMobilpay\Mobilpay\Payment\Invoice;
+namespace Stl30\Mobilpay\Payment\Invoice;
 /**
  * Class Mobilpay_Payment_Invoice_Item
  * @copyright NETOPIA

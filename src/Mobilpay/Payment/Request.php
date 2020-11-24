@@ -1,5 +1,5 @@
 <?php
-namespace Stl30\LaravelMobilpay\Mobilpay\Payment;
+namespace Stl30\Mobilpay\Payment;
 /**
  * Class Mobilpay_Payment_Request
  * This class can be used for accessing mobilpay.ro payment interface for your configured online services

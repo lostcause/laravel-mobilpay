@@ -1,7 +1,7 @@
 <?php
-namespace Stl30\LaravelMobilpay\Mobilpay\Payment\Request;
+namespace Stl30\Mobilpay\Payment\Request;
 
-use Stl30\LaravelMobilpay\Mobilpay\Payment\Mobilpay_Payment_Address;
+use Stl30\Mobilpay\Payment\Mobilpay_Payment_Address;
 
 /**
  * mobilPay

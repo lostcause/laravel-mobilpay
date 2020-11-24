@@ -1,5 +1,5 @@
 <?php
-namespace Stl30\LaravelMobilpay\Mobilpay\Payment\Request;
+namespace Stl30\Mobilpay\Payment\Request;
 use \stdClass;
 /**
  * Class Mobilpay_Payment_Request_Abstract
