@@ -1,5 +1,5 @@
 <?php
-namespace Stl30\LaravelMobilpay\Mobilpay\Payment;
+namespace Stl30\Mobilpay\Payment;
 
 /**
  * Class Mobilpay_Payment_Address
